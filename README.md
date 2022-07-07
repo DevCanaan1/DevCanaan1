@@ -1,8 +1,4 @@
-### Hi there 👋
-
-
-
-Here are some ideas to get you started:
+### Hi there, I'm Canaan 👋
 
 - 🔭 I’m currently working on a Shopify Projects
 - 🌱 I’m currently learning Javascript
