@@ -4,4 +4,4 @@
 - I’m currently learning how to be a complete Shopify expert!
 - Ask me about Shopify Store Setup!
 - How to reach me
-    - www.canaancollins.dev | email: canaan@canaancollins.dev | cell: (601)921-9140
+    - www.canaancollins.dev | email: canaan@canaancollins.dev | cell: (601) 921-9140
